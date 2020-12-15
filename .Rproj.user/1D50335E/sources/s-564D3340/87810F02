@@ -1,0 +1,32 @@
+{
+    "id": "87810F02",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1608053719673.0,
+    "source_on_save": false,
+    "relative_order": 14,
+    "properties": {
+        "expression": "pequena_peru",
+        "caption": "pequena_peru",
+        "totalObservations": 65,
+        "displayedObservations": 65,
+        "variables": 12,
+        "cacheKey": "A8D6DDC7",
+        "object": "pequena_peru",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=pequena_peru&cache_key=A8D6DDC7&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2482730676494692210,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1608053719673,
+    "read_only": false,
+    "read_only_alternatives": []
+}

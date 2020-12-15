@@ -1,0 +1,32 @@
+{
+    "id": "9822E198",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1608053449248.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "expression": "grandes_peru",
+        "caption": "grandes_peru",
+        "totalObservations": 65,
+        "displayedObservations": 65,
+        "variables": 12,
+        "cacheKey": "782571F8",
+        "object": "grandes_peru",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=grandes_peru&cache_key=782571F8&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 8317708090562925156,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1608053449248,
+    "read_only": false,
+    "read_only_alternatives": []
+}

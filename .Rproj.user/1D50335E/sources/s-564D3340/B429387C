@@ -1,0 +1,32 @@
+{
+    "id": "B429387C",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1608053574475.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "expression": "medianas_colombia",
+        "caption": "medianas_colombia",
+        "totalObservations": 65,
+        "displayedObservations": 65,
+        "variables": 12,
+        "cacheKey": "2BD9AB2C",
+        "object": "medianas_colombia",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=medianas_colombia&cache_key=2BD9AB2C&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2322206372457111909,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1608053574475,
+    "read_only": false,
+    "read_only_alternatives": []
+}

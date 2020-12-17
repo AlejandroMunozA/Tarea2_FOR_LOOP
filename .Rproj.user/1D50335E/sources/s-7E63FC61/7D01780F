@@ -1,0 +1,32 @@
+{
+    "id": "7D01780F",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1608170856413.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "expression": "grandes_chile",
+        "caption": "grandes_chile",
+        "totalObservations": 65,
+        "displayedObservations": 65,
+        "variables": 13,
+        "cacheKey": "B767644D",
+        "object": "grandes_chile",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=grandes_chile&cache_key=B767644D&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 7308619195232122478,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1608170856413,
+    "read_only": false,
+    "read_only_alternatives": []
+}

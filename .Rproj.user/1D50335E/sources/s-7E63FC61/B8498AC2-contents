@@ -226,12 +226,12 @@ SuperBaseDeDatosMamalona <- data.frame(grandes_chile,grandes_colombia,grandes_pe
 
 ###############NUMERO_3###############
 
-for (Chile in SuperBaseDeDatosMamalona) {
-  print(Chile) 
-}
 
 
-obs.
+
+
+
+  
 
 
 ###############NUMERO_4###############
@@ -250,7 +250,7 @@ obs.
 
 
 
-
+boxplot(tamano)
 
 
 
